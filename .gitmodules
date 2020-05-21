@@ -1,0 +1,6 @@
+[submodule "recipe_server"]
+	path = recipe_server
+	url = git@github.com:philip-h/recipe_server.git
+[submodule "recipe_client"]
+	path = recipe_client
+	url = git@github.com:philip-h/recipe_client.git
